@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edaguler00
 - 👀 I’m interested in with back-end web development. Specializing in Node.js and Express.js.
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/eda-güler/
 
 <!---
