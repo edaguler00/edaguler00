@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edaguler00
-- 👀 I’m interested in full-stack web development. Specializing in React in frontend and Node.js in backend.
-- 🌱 I’m currently learning Vanilla Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in with back-end web development. Specializing in Node.js and Express.js.
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me https://www.linkedin.com/in/eda-güler/
 
 <!---
